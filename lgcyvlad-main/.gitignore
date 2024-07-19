@@ -1,0 +1,17 @@
+# Dependencies
+node_modules
+
+# yarn error logs
+yarn-error.log
+
+# Environment varibales
+.env*
+!.env*.example
+.env.example
+
+# Code coverage
+coverage
+
+src/resources/*
+AuthKey_QRWRVWT5VF.p8
+lgcy_lgcy_certificate_APNS.p12
